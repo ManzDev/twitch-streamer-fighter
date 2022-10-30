@@ -1,0 +1,12 @@
+html,
+body {
+  height: 90vh;
+}
+
+body {
+  background: #223;
+}
+
+canvas {
+  border: 5px solid #000;
+}
